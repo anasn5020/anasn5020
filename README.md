@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/qW1o1Tk.gif" width="100%" />
-</p>
-
 <h1 align="center">👋 Hey, I'm <span style="color:#f72585;">Anas Nasr</span></h1>
 <h3 align="center">🚀 Laravel Developer | Livewire • Alpine.js • React.js</h3>
 
@@ -13,7 +8,7 @@ I'm a passionate full-stack developer who turns ideas into beautifully crafted w
 My specialty is building **high-performance Laravel applications** enhanced with **Livewire** and **Alpine.js**,  
 and crafting modern front-end experiences using **React.js**.
 
-I love writing clean code, automating workflows, and creating digital experiences that *feel alive*.
+I love writing clean code, automating workflows, and creating digital experiences that feel alive.
 
 ---
 
@@ -34,31 +29,21 @@ I love writing clean code, automating workflows, and creating digital experience
 ### 🧰 Tools & DevOps  
 - Git & GitHub  
 - Composer / NPM  
-- Docker (basic)  
+- Docker  
 - Linux Server Management  
-- cPanel / VPS Deployment  
-
----
-
-## 🧩 What I Love Building  
-- Dynamic full-stack Laravel systems  
-- Reactive UI without heavy JavaScript (Livewire + Alpine.js)  
-- Stunning, fast front-end components in React  
-- Authentication (Sanctum, Breeze, Jetstream)  
-- Custom dashboard & admin panels  
-- API-driven applications  
+- VPS / cPanel Deployment  
 
 ---
 
 ## 🏆 Stats & Achievements  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anasn5020&show_icons=true&theme=tokyonight&hide_border=true" width="54%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasn5020&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anasn5020&show_icons=true&theme=tokyonight" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasn5020&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasn5020&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anasn5020&theme=tokyonight" width="60%" />
 </p>
 
 ---
@@ -79,11 +64,11 @@ I love writing clean code, automating workflows, and creating digital experience
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake (WORKING MIRROR VERSION)  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ If you like my work, consider giving a star to my repositories!  
