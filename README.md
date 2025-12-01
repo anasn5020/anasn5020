@@ -1,57 +1,89 @@
-# 👋 Hi, I'm Aayush Bharti
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.imgur.com/qW1o1Tk.gif" width="100%" />
+</p>
 
-### 💻 Laravel Developer | Livewire • Alpine.js • React.js
+<h1 align="center">👋 Hey, I'm <span style="color:#f72585;">Anas Nasr</span></h1>
+<h3 align="center">🚀 Laravel Developer | Livewire • Alpine.js • React.js</h3>
 
-I'm a passionate web developer who loves building clean, scalable, and dynamic web applications.  
-My primary expertise lies in **Laravel**, and I enjoy enhancing application interactivity using **Livewire** and **Alpine.js**.  
-I also build modern front-end interfaces with **React.js**.
+<br/>
 
----
+## 🌟 About Me  
+I'm a passionate full-stack developer who turns ideas into beautifully crafted web applications.  
+My specialty is building **high-performance Laravel applications** enhanced with **Livewire** and **Alpine.js**,  
+and crafting modern front-end experiences using **React.js**.
 
-## 🚀 Tech Stack
-
-### Backend
-- 🟢 PHP / Laravel  
-- 🟡 REST APIs  
-- 🔐 Authentication & Authorization  
-- 🗄️ MySQL / PostgreSQL  
-
-### Frontend
-- 🔵 Livewire  
-- 🔷 Alpine.js  
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
-
-### Tools & DevOps
-- 🐳 Docker (basic)  
-- 🧪 PHPUnit / Pest  
-- 🧰 Composer | NPM | Git  
-- ☁️ Deployment on cPanel / VPS  
+I love writing clean code, automating workflows, and creating digital experiences that *feel alive*.
 
 ---
 
-## 📌 What I Do
-- Build full-stack Laravel applications  
-- Create dynamic UI without heavy JavaScript using **Livewire + Alpine.js**  
-- Develop reusable frontend components with **React.js**  
-- Design optimized database structures  
-- Implement authentication systems (Sanctum / Breeze / Jetstream)  
+## ⚡ Tech Arsenal  
+
+### 🛠 Backend & Frameworks  
+- Laravel • PHP  
+- Livewire  
+- REST APIs  
+- MySQL / PostgreSQL  
+
+### 🎨 Frontend Technologies  
+- Alpine.js  
+- React.js  
+- Tailwind CSS  
+- JavaScript / ES6+  
+
+### 🧰 Tools & DevOps  
+- Git & GitHub  
+- Composer / NPM  
+- Docker (basic)  
+- Linux Server Management  
+- cPanel / VPS Deployment  
 
 ---
 
-## 📈 GitHub Stats
-
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushbharti&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbharti&layout=compact&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-- 🌐 **Portfolio:** _Add your link here_  
-- ✉️ **Email:** _your email here_  
-- 💼 **LinkedIn:** _your LinkedIn link here_
+## 🧩 What I Love Building  
+- Dynamic full-stack Laravel systems  
+- Reactive UI without heavy JavaScript (Livewire + Alpine.js)  
+- Stunning, fast front-end components in React  
+- Authentication (Sanctum, Breeze, Jetstream)  
+- Custom dashboard & admin panels  
+- API-driven applications  
 
 ---
 
-⭐ _Thanks for visiting my profile! Feel free to check out my repositories or reach out for collaboration._  
+## 🏆 Stats & Achievements  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anasn5020&show_icons=true&theme=tokyonight&hide_border=true" width="54%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasn5020&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anasn5020&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anas-nasr-4a6a62236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/Anas.Nangiana">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923458620683">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### ⭐ If you like my work, consider giving a star to my repositories!
