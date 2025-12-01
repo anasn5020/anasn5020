@@ -1,82 +1,57 @@
-<div align="center">
+# 👋 Hi, I'm Aayush Bharti
 
-<!-- Typing SVG Header -->
+### 💻 Laravel Developer | Livewire • Alpine.js • React.js
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26pause%3D1000%26color%3D36BCF7%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DHi%2Bthere!%2B%25F0%259F%2591%258B%3BI%27m%2BAnas%2BNasr%3BLaravel%2BDeveloper%3BFull%2BStack%2BEnthusiast" alt="Typing SVG" />
+I'm a passionate web developer who loves building clean, scalable, and dynamic web applications.  
+My primary expertise lies in **Laravel**, and I enjoy enhancing application interactivity using **Livewire** and **Alpine.js**.  
+I also build modern front-end interfaces with **React.js**.
 
-<!-- Intro Text -->
+---
 
-<h3>I am a passionate Full Stack Developer specializing in the PHP ecosystem.</h3>
-<p>I build robust web applications using <b>Laravel</b> and create dynamic user interfaces with <b>Livewire</b>, <b>Alpine.js</b>, and <b>React</b>.</p>
+## 🚀 Tech Stack
 
-<!-- Tech Stack Badges -->
+### Backend
+- 🟢 PHP / Laravel  
+- 🟡 REST APIs  
+- 🔐 Authentication & Authorization  
+- 🗄️ MySQL / PostgreSQL  
 
-<h3>🛠️ Tech Stack & Tools</h3>
+### Frontend
+- 🔵 Livewire  
+- 🔷 Alpine.js  
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
 
-<p>
-<!-- Backend -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Laravel-FF2D20%3Fstyle%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite" alt="Laravel" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" alt="PHP" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-005C84%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL" />
-</p>
+### Tools & DevOps
+- 🐳 Docker (basic)  
+- 🧪 PHPUnit / Pest  
+- 🧰 Composer | NPM | Git  
+- ☁️ Deployment on cPanel / VPS  
 
-<p>
-<!-- Frontend -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Livewire-4E56A6%3Fstyle%3Dfor-the-badge%26logo%3Dlivewire%26logoColor%3Dwhite" alt="Livewire" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Alpine.js-8BC0D0%3Fstyle%3Dfor-the-badge%26logo%3Dalpinedotjs%26logoColor%3Dwhite" alt="Alpine.js" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D61DAFB" alt="React" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC%3Fstyle%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite" alt="Tailwind CSS" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" alt="JavaScript" />
-</p>
+---
 
-<p>
-<!-- Tools -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" alt="Git" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-0078D4%3Fstyle%3Dfor-the-badge%26logo%3Dvisual%2520studio%2520code%26logoColor%3Dwhite" alt="VS Code" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Composer-885630%3Fstyle%3Dfor-the-badge%26logo%3Dcomposer%26logoColor%3Dwhite" alt="Composer" />
-</p>
+## 📌 What I Do
+- Build full-stack Laravel applications  
+- Create dynamic UI without heavy JavaScript using **Livewire + Alpine.js**  
+- Develop reusable frontend components with **React.js**  
+- Design optimized database structures  
+- Implement authentication systems (Sanctum / Breeze / Jetstream)  
 
-<!-- Status Section -->
+---
 
-<h3>🔭 Current Status</h3>
+## 📈 GitHub Stats
 
-<ul align="left" style="display: inline-block; text-align: left;">
-<li>💼 I’m currently building scalable web apps with the <b>TALL Stack</b>.</li>
-<li>🌱 I’m exploring advanced state management in <b>React</b>.</li>
-<li>👯 I’m looking to collaborate on open-source <b>Laravel</b> packages.</li>
-</ul>
+![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushbharti&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbharti&layout=compact&theme=radical)
 
-<!-- Stats Section -->
+---
 
-<h3>📊 GitHub Stats</h3>
-<p>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Danasn5020%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Anas's GitHub Stats" height="180" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Danasn5020%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" height="180" />
-</p>
-<p>
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Danasn5020%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Streak Stats" />
-</p>
+## 📫 Connect With Me
 
-<!-- Connect Section -->
+- 🌐 **Portfolio:** _Add your link here_  
+- ✉️ **Email:** _your email here_  
+- 💼 **LinkedIn:** _your LinkedIn link here_
 
-<h3>📫 Connect with me</h3>
+---
 
-<p>
-<a href="https://www.linkedin.com/in/anas-nasr-4a6a62236/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="https://www.facebook.com/Anas.Nangiana" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook" />
-</a>
-<a href="https://www.google.com/search?q=https://wa.me/923458620683" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="WhatsApp" />
-</a>
-</p>
-
-<!-- Visitor Counter -->
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Danasn5020%26label%3DProfile%2520Views%26color%3Dblue%26style%3Dflat" alt="Profile Views" />
-</p>
-
-</div>
+⭐ _Thanks for visiting my profile! Feel free to check out my repositories or reach out for collaboration._  
