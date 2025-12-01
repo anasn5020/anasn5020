@@ -10,6 +10,10 @@ and crafting modern front-end experiences using **React.js**.
 
 I love writing clean code, automating workflows, and creating digital experiences that feel alive.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abubakr&label=Profile%20Views&color=0e75b6&style=flat" alt="anasn5020" />
+</p>
+
 ---
 
 ## ⚡ Tech Arsenal  
@@ -36,11 +40,6 @@ I love writing clean code, automating workflows, and creating digital experience
 ---
 
 ## 🏆 Stats & Achievements  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anasn5020&show_icons=true&theme=tokyonight" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasn5020&layout=compact&theme=tokyonight" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anasn5020&theme=tokyonight" width="60%" />
