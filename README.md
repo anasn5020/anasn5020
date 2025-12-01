@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#f72585;">Anas Nasr</span></h1>
-<h3 align="center">🚀 Laravel Developer | Livewire • Alpine.js • React.js</h3>
+<h3 align="center">🚀 Laravel Developer | Livewire  • React.js</h3>
 
 <br/>
 
